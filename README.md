@@ -18,7 +18,7 @@ Clone the repo and run the installer as root:
 
 ```bash
 https://github.com/RedHEAD-5050/VPS-BOT.git
-cd vps-deploy-bot-v1
+cd VPS-BOT
 chmod +x install.sh
 sudo ./install.sh
 ```
